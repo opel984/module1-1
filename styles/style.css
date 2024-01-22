@@ -1,0 +1,82 @@
+body{
+    font-family: 'Manrope', Helvetica, sans-serif;
+}
+
+
+h1{
+    color: #121212;
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 400;
+    width: 956px;
+    letter-spacing: -1.8px;
+    margin-bottom: 30px;
+    
+    
+}
+
+h2{
+    text-transform: uppercase;
+    color: #121212;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+.container{
+    width: 1150px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+ 
+.studio-body{
+    background-image: url('../resources/studio.png');
+    width: 1150px;
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+.studio-body-text-wrapper{
+    color: #FFFFFF;
+   font-weight: 400;
+   width: 430px;
+    padding-left: 40px;
+    padding-top: 379px;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: -0.6px;
+    
+}
+
+.studio-info{
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61px;
+    color: #121212;
+    width: 1048px;
+    letter-spacing: -1.35px;
+    margin-bottom: 30px;
+}
+
+.studio-services{
+    display: block;
+    text-decoration: none;
+    color:#FFF ;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.6px;
+    border:1px solid transparent;
+    background-color: #AD1818;
+    border-radius: 5px;
+    width: 255px;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.studio-services:hover{
+    color: #AD1818;
+}
